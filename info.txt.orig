@@ -3,7 +3,9 @@ This is for testing git fetch
 This is to demo git pull
 This is updated by developer-1
 This updated by developer two in remote
-Git is Distributed
+<<<<<<< HEAD
 Svn is central respository
-hyderabad is a nice city
 
+=======
+Git is Distributed
+>>>>>>> d56f8143656b12b01bc499955b8f7007bec5a6e4
