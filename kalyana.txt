@@ -1,3 +1,4 @@
 Learning git branch
 Learning pull request
 Cloud is in boom
+Azure has good
